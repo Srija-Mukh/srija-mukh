@@ -1,8 +1,11 @@
 ### Hello there, I'm Srija  👋
 
 • 🌱 I’m currently learning:
-- how to make functional and aesthetic websites in React
+- how to make functional and aesthetic websites using React
 - about diferent Cloud services and how they can be used to design flexible and secure systems
+
+• 🤔 I’m looking for explore:
+- cybersecurity
 
 • 😄 Pronouns: She/Her <br />
 
