@@ -2,14 +2,14 @@
 
 • 🌱 I’m currently learning:
 - how to make functional and aesthetic websites using React
-- about diferent Cloud services and how they can be used to design flexible and secure systems
-- how to develop REST APIs using Java Springboot
+- about different Cloud services and how they can be used to design flexible and secure systems
 
-• 🤔 I’m looking for explore:
+• 🤔 I’m looking to explore:
 - cybersecurity
+- web development
+- microservice development
 
 • 😄 Pronouns: She/Her <br />
-
 
 <!--
 **Srija-Mukh/srija-mukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
