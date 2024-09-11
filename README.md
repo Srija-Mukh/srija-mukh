@@ -1,13 +1,12 @@
 ### Hello there, I'm Srija  👋
 
 • 🌱 I’m currently learning:
-- how to make functional and aesthetic websites using React
-- about different Cloud services and how they can be used to design flexible and secure systems
+- how to make functional and aesthetic apps using React Native and the MERN stack
+- about generative AI
 
 • 🤔 I’m looking to explore:
 - cybersecurity
-- web development
-- microservice development
+- AI
 
 • 😄 Pronouns: She/Her <br />
 
