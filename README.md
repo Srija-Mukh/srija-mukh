@@ -1,12 +1,12 @@
 ### Hello there, I'm Srija  👋
 
 • 🌱 I’m currently learning:
-- how to make functional and aesthetic apps using React Native and the MERN stack
-- about generative AI
+- how LLMs work, vector embeddings and stores
+- agentic AI
 
 • 🤔 I’m looking to explore:
-- cybersecurity
-- AI
+- system architecture
+- NLP
 
 • 😄 Pronouns: She/Her <br />
 
